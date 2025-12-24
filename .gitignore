@@ -21,3 +21,5 @@ yarn-error.log*
 out/
 *.tsbuildinfo
 *.swp
+main
+server
