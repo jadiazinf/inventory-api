@@ -1,0 +1,5 @@
+{
+  "welcome": "Welcome to Inventory API",
+  "health_check": "Service is healthy",
+  "greeting": "Hello, {{.Name}}!"
+}
